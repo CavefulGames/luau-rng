@@ -34,6 +34,11 @@ via pesde
 pesde add caveful_games/rng
 ```
 
+This library is zero-dependency so this can be used as git submodule too
+```sh
+git submodule add https://github.com/CavefulGames/luau-rng.git submodules/rng
+```
+
 ## TO-DOs
 - [ ] Make docs from moonwave comments
 
